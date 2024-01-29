@@ -1,0 +1,13 @@
+<support>
+<title>edupay</title>
+<quest> 교육급여 </quest> 
+<answer> 「국민기초생활보장법」제12조(교육급여), 기초생활보장 수급자에 대한 적정한 교육기회 제공 </answer> 
+<quest> 지원대상 </quest> 
+<answer> 초·중·고등학교에 재학하는 교육급여 수급자 </answer> 
+<quest> 자격 기준</quest>
+<answer> 중위 소득 이하</answer>
+<quest> 수급 방법</quest>
+<answer>주민 자치 센터 방문</answer>
+<quest> 수급 절차</quest>
+<answer>주민 자치 센터 또는 지역 시군구 사무실 방문</answer>
+</support>

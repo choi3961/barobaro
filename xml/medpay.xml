@@ -1,0 +1,15 @@
+<support>
+<title>medpay</title>
+<quest> 의료급여제도란? </quest> 
+<answer> 생활유지 능력이 없거나 생활이 어려운 저소득 국민의 의료문제를 국가가 보장하는 공공부조제도로서 건강보험과 함께 국민 의료보장의 중요한 수단이 되는 사회보장제도 </answer> 
+<quest> 1종 수급권자 </quest> 
+<answer> 근로무능력가구, 시설수급자, 등록결핵질환자, 희귀질환자, 중증난치질환자, 중증질환(암, 중증화상) 등록자 </answer> 
+<quest> 2종 수급권자 </quest> 
+<answer> 국민기초생활보장 수급자 및 타법적용자 중 1종수급권자 기준에 해당되지 않는 자 </answer> 
+<quest> 자격 기준</quest>
+<answer> 중위 소득 이하</answer>
+<quest> 수급 방법</quest>
+<answer>주민 자치 센터 방문</answer>
+<quest> 수급 절차</quest>
+<answer>주민 자치 센터 또는 지역 시군구 사무실 방문</answer>
+</support>
